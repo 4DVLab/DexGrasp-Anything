@@ -39,8 +39,8 @@
 ## 😲 Results
 Please refer to our [homepage](https://dexgraspanything.github.io/) for more thrilling results!
 
-# 📚 数据集
-| **数据集** | **Huggingface link** | **Google drive Link (Format Compatible with Our Dataloader)** | **Paper** |
+# 📚 Datasets
+| **Datasets** | **Huggingface link** | **Google drive Link (Format Compatible with Our Dataloader)** | **Paper** |
 |:---:|:---:|:---:|:---:|
 | **DGA** | [Huggingface](https://huggingface.co/datasets/GaussionZhong/DexGrasp-Anything/resolve/main/Dexgraspanyting.tar.gz) | [Datasets](https://drive.google.com/file/d/1of-m2qxVqgWf-nHV6oVHPk1z4NWVrEPV/view?usp=drive_link) | ✅[DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/pdf/2503.08257) |
 | *Realdex*           | [Huggingface] | [Datasets](https://drive.google.com/file/d/12rgyyKg07PmY6jzl7pMocA4o5ikLFuOA/view)                     | ✅[RealDex: Towards Human-like Grasping for Robotic Dexterous Hand](https://arxiv.org/abs/2402.13853)                                                    |
