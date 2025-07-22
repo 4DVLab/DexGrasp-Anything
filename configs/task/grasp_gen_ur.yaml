@@ -6,7 +6,7 @@ eval_visualize: 1
 train:
   batch_size: 128
   num_workers: 0
-  num_epochs: 3000
+  num_epochs: 3000 #3000 for small dataset, 100 for large dataset(1M+)
   log_step: 100
 
 test:
