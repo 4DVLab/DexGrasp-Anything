@@ -10,6 +10,12 @@ from plotly import graph_objects as go
 from utils.handmodel import get_handmodel
 from utils.plotly_utils import plot_mesh
 from utils.rot6d import rot_to_orthod6d
+"""
+DexGraspAnything Dataset Visualization Notes:
+Dataset contains: 10,000+ self-collected meshes + 5,000 meshes from other datasets
+Note: Meshes from other datasets require using their original dataset mesh file paths for visualization
+"""
+# pt_folder = '/inspurfs/group/mayuexin/datasets/Dexgraspanything/Grasp_anyting_shadowhand.pt'
 # pt_folder = '/inspurfs/group/mayuexin/datasets/DexGRAB/DexGRAB_shadowhand_downsample.pt'
 pt_folder = '/inspurfs/group/mayuexin/datasets/DexGraspNet/dexgraspnet_shadowhand_downsample.pt'
 # pt_folder = '/inspurfs/group/mayuexin/datasets/UniDexGrasp/DFCData/unidexgrasp_shadowhand_downsample.pt'
