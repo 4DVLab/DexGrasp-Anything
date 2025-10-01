@@ -157,7 +157,7 @@ bash scripts/grasp_gen_ur/test.sh ${EVAL_DIR}
 
 ## 🎫 License
 
-For academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 💓 Acknowledgement
 
